@@ -1,0 +1,12 @@
+{
+  "name": "Horwood Plan Full Compile 10 Feb 2015",
+  "version": "1.0.0",
+  "description": "",
+  "type": "overlay",
+  "format": "png",
+  "minzoom": "11",
+  "maxzoom": "19",
+  "bounds": "-0.16960107,51.48308357,-0.02313805,51.53503439",
+  "scale": "1",
+  "profile": "mercator"
+}
